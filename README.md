@@ -9,8 +9,8 @@ To delve into the foundational architecture of e-commerce platforms, this projec
 
 ## Table of Contents 
 
-- [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
