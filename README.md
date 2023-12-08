@@ -41,6 +41,8 @@ Install dependencies: `npm install`
 3. Seed the db: `npm run seed`
 
 ## Screenshot
+<img width="1007" alt="ecommerce-backend" src="https://github.com/dpkashrestha/ecommerce-backend/assets/142865374/b3c57dab-1ac3-416e-85fa-c88ac8ee037d">
+
 
 ## Walkthrough Video
 
